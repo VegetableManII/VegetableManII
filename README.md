@@ -1,6 +1,7 @@
 [![VegetableManII's GitHub stats](https://github-readme-stats.vercel.app/api?username=VegetableManII&count_private=true&show_icons=true&theme=vue-dark&hide=prs,issues,contribs)](https://github.com/VegetableManII)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VegetableManII&layout=compact&langs_count=2&theme=vue-dark)](https://github.com/VegetableManII)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VegetableManII&repo=Summary&theme=vue-dark)](https://github.com/VegetableManII/Summary)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VegetableManII&repo=Zombies&theme=vue-dark)](https://github.com/VegetableManII/Zombies)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VegetableManII&repo=Algorithm-Ex&theme=vue-dark)](https://github.com/VegetableManII/Algorithm-Ex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VegetableManII&repo=Experiments&theme=vue-dark)](https://github.com/VegetableManII/Experiments)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VegetableManII&repo=Happy21_Sever&theme=vue-dark)](https://github.com/VegetableManII/Happy21_Sever)
